@@ -1,2 +1,2 @@
 # Minimap
-(Itch.io) [https://alon5564.itch.io/minimap]
+[link](https://alon5564.itch.io/minimap)
